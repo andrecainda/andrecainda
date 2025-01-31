@@ -44,7 +44,7 @@
 
 
 ## Projetos Destacados
-- [Projeto 1](https://github.com/teu-usuario/projeto1) - Uma solução Windows Forms com vários projetos.
+- [Projeto 1](https://github.com/[teu-usuario/projeto1](https://github.com/Sousanto/Winforms)) - Uma solução Windows Forms com vários projetos.
 - [Projeto 2](https://github.com/teu-usuario/projeto2) - Uma solução com vários exercícios usando C#.
 
 ## Estatísticas do GitHub
