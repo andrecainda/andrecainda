@@ -48,8 +48,8 @@
 - [Projeto 2](https://github.com/Sousanto/ProgramacaoEstruturada) - Uma solução com vários exercícios usando C#.
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=teu-usuario&show_icons=true&theme=radical&hide=issues,prs&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=teu-usuario&layout=compact&theme=radical&hide=html,css)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Sousanto&show_icons=true&theme=radical&hide=issues,prs&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Sousanto&layout=compact&theme=radical&hide=html,css)
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/andré-cainda-7737071b6)
