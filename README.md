@@ -3,7 +3,7 @@
 # Olá, eu sou André Cainda 👋
 
 ## Sobre Mim
-- 🎓 Estudante de Técnico/a Especialista em Tecnologias e Programação de Sistemas de Informação.
+- 🎓 Estudante de Técnico Especialista em Tecnologias e Programação de Sistemas de Informação.
 - 💻 Apaixonado por desenvolvimento de software e bases de dados.
 - 🌱 Atualmente aprendendo:
   - **C#** e **.NET** para desenvolvimento de aplicações desktop e web.
