@@ -119,12 +119,12 @@
 </table>
 
 ## Projetos Destacados
-- [Projeto 1](https://github.com/Sousanto/Winforms) - Uma solução Windows Forms com vários projetos.
-- [Projeto 2](https://github.com/Sousanto/ProgramacaoEstruturada) - Uma solução com vários exercícios usando C#.
+- [Projeto 1](https://github.com/andrecainda/Winforms) - Uma solução Windows Forms com vários projetos.
+- [Projeto 2](https://github.com/andrecainda/ProgramacaoEstruturada) - Uma solução com vários exercícios usando C#.
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Sousanto&show_icons=true&theme=radical&hide=issues,prs&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Sousanto&layout=compact&theme=radical&hide=html,css)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andrecainda&show_icons=true&theme=radical&hide=issues,prs&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecainda&layout=compact&theme=radical&hide=html,css)
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/andré-cainda-7737071b6)
